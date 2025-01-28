@@ -1,0 +1,30 @@
+body {
+  font-family: 'Jersey 15', serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.64), rgba(0, 0, 0, 0.5)), url("recursos/img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    margin: 0; /* Eliminar márgenes por si acaso */
+    padding: 0; /* Eliminar padding también */
+    height: 100vh; /* Asegurarse de que el body ocupe toda la altura de la ventana */
+
+}
+
+p{
+    color: white;
+    font-size: 80px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+.texto{
+    color: white;
+    font-size: 20px;
+    margin-top: 12px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
